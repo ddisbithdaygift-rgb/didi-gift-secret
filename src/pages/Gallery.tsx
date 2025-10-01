@@ -7,20 +7,20 @@ import makhane from "@/assets/makhane.jpg";
 const Gallery = () => {
   const albums = [
     {
-      title: "Golden Oldies",
+      title: "Golden days",
       description: "Precious childhood memories",
       image: weelife1,
       caption: "First time in Didi's Weelife group - unforgettable moments!",
     },
     {
-      title: "Family Fun",
-      description: "Beautiful family moments",
+      title: "together Fun",
+      description: "Beautiful moments of old days",
       image: weelife2,
       caption: "Special times with loved ones in our virtual world",
     },
     {
-      title: "Adventures with Friends",
-      description: "Fun times and unforgettable memories",
+      title: "foodyyy",
+      description: "mujhe video call pe makhane aur popcorn dhikaana",
       image: makhane,
       caption: "Didi's favorite - Makhane! 🤍",
     },

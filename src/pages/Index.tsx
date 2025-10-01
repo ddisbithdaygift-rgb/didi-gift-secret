@@ -67,7 +67,7 @@ const Index = () => {
               <div className="bg-card border border-border rounded-lg p-6">
                 <h4 className="text-xl font-bold mb-3 flex items-center gap-2">
                   <Heart className="w-5 h-5 text-primary" fill="currentColor" />
-                  Her Passions
+                  Her hobbies
                 </h4>
                 <ul className="space-y-2 text-muted-foreground">
                   <li>📺 Watching anime</li>
@@ -86,7 +86,7 @@ const Index = () => {
                   <li>🥞 Dosa</li>
                   <li>🌰 Makhane</li>
                   <li>🎈 Golgappe</li>
-                  <li>🍝 Spaghetti</li>
+                  <li>🍝 Swaghetty</li>
                 </ul>
               </div>
             </div>

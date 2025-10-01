@@ -26,7 +26,7 @@ const questions: Question[] = [
   },
   {
     question: "What is one of Ila Didi's favorite foods?",
-    options: ["Pizza", "Daal Chawal", "Burger", "Pasta"],
+    options: ["Pizza", "Burger", "Daal Chawal", "Pasta"],
     correct: 1,
   },
   {
@@ -38,6 +38,11 @@ const questions: Question[] = [
     question: "What is one of our inside jokes?",
     options: ["Vampire", "Zombie", "Werewolf", "Ghost"],
     correct: 0,
+  },
+  {
+    question: "Who is Surajit Roy to Didi? 😏",
+    options: ["fiend", "colligue", "neibhour", "didi ka special some one"],
+    correct: 1,
   },
 ];
 
